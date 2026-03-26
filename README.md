@@ -78,7 +78,7 @@ These datasets help test whether **reusing powder** changes particle size over t
 
 ---
 
-## 🎯 Project Goal (in plain English)
+## 🎯 Goal
 
 We want to answer three main questions:
 
@@ -132,7 +132,7 @@ We want to answer three main questions:
 
 ---
 
-### Step 5: Particle Size Analysis (Extra Credit)
+### Step 5: Particle Size Analysis 
 - Plot particle size curves for Virgin vs Recycled powders.
 - Compute mean size and D50 (median particle diameter).
 - Test whether the difference is statistically significant.
@@ -152,7 +152,7 @@ These insights can guide engineers to set up more reliable 3D printing builds an
 
 ---
 
-## 🧠 Summary (in simple words)
+## 🧠 Summary 
 
 This project is about **turning 3D printing into a data problem**.  
 Instead of guessing which settings work best, we’re letting the data show us:
